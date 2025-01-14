@@ -1,0 +1,29 @@
+.taskInput {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.taskList {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.taskItem {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.filterFunc {
+    justify-content: center;
+    margin-left: -40px;
+}
+
+.filterButton {
+    justify-content: center;
+}
